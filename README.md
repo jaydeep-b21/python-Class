@@ -1,1 +1,1 @@
-# python JSON
+# python class
